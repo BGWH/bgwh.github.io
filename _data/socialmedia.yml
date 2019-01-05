@@ -4,8 +4,13 @@
    class: icon-facebook
    title: Facebook Profile
 
+ - name: Instagram
+   url: https://www.instagram.com/bgwh/
+   class: icon-instagram
+   title: Instagram Profile
+   
  - name: LinkedIn
-   url: www.linkedin.com/in/grosswindhager
+   url: https://www.linkedin.com/in/grosswindhager/
    class: icon-linkedin
    title: LinkedIn Profile
    
