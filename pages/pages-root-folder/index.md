@@ -6,10 +6,13 @@
 #
 #layout: page
 layout: page-fullwidth
-header: no
+#header: no
+header:
+    image: "Foto_Gosswindhager_original.png"
+    background-color: "#fabb00"
 title: "Bernhard Großwindhager"
-image:
-    title: Foto_Gosswindhager.png
+#image:
+#    title: Foto_Gosswindhager_original.png
 
 permalink: /index.html
 #
