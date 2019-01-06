@@ -26,8 +26,11 @@ Hi, I am a 3rd year PhD student at the <a href="http://www.iti.tugraz.at">Instit
 Electrical Engineering from the same University in 2012 and 2014, respectively. Currently I am a guest researcher in Prof. Prabal Dutta's research group (<a href="https://lab11.eecs.umich.edu/index.html">Lab11</a>) at UC Berkeley, United States.
 
 My current research aims to provide reliable and efficient wireless communication and localization for future Internet-of-Things applications. Towards this goal I am exploiting the high bandwidth of wireless technologies such as ultra-wideband (UWB).
-It enabled my work on environment-dependent adaptation of paramters to provide highly robust UWB links even under harsh conditions <a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
+It enabled my work on environment-dependent adaptation of parameters to provide highly robust UWB links even under harsh conditions <a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
 localization system <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a>.
+
+Besides my academic career I have more than six years of experience in biomedical engineering (<a href="http://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive industry (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
+and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>).
 
 <!--The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
 In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
