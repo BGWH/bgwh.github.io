@@ -32,7 +32,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 } 
 </pre></div></div> <script> function toggleTextgrosswindhager2018salma() { $('.textgrosswindhager2018salma').toggle(); } </script> </li>
 <li><span id="grosswindhager2018dataset"><b>Dataset: Single-anchor Indoor Localization with Decawave DW1000 and Directional Antennas.</b> <br> <u>B. Großwindhager</u>, M. Rath, J. Kulmer, M.S. Bakr, C.A. Boano, K. Witrisal, and K. Römer. In <i>Proceedings of the First Workshop on Data Acquisition To Analysis (DATA '18).</i> Shenzhen, China. November 2018.</span>
-<span onclick="toggleTextgrosswindhager2018dataset()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://www.tugraz.at/en/institutes/iti/salma/database/">[Link]</a> <a href="../pubs/grosswindhager2018dataset.pdf">[PDF]</a> <div class="textgrosswindhager2018dataset" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018dataset,
+<span onclick="toggleTextgrosswindhager2018dataset()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3277879">[Link]</a> <a href="../pubs/grosswindhager2018dataset.pdf">[PDF]</a> <a href="https://www.tugraz.at/en/institutes/iti/salma/database/">[Dataset]</a> <div class="textgrosswindhager2018dataset" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018dataset,
   author={Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Bakr, Mustafa S and Boano, Carlo Alberto and Witrisal, Klaus and R{\"o}mer, Kay},
   title={Dataset: single-anchor indoor localization with decawave DW1000 and directional antennas},
   booktitle={Proceedings of the First Workshop on Data Acquisition To Analysis},
@@ -123,7 +123,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
   doi = {10.1145/3131672.3136961},
 }
 </pre></div></div> <script> function toggleTextgrosswindhager2017demosingleanchor() { $('.textgrosswindhager2017demosingleanchor').toggle(); } </script> </li>
-<li><span id="rath2017directional"><b>Multipath-assisted Indoor Positioning Enabled by Directional UWB Sector Antennas. </b> <br> M. Rath, J. Kulmer, M.S. Bakr, <u>B. Großwindhager</u>, and K. Witrisal. In <i>Proceedings of the 18th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC '17). </i> Sapporo, Japan. July 2017. </span>
+<li><span id="rath2017directional"><b>Multipath-assisted Indoor Positioning Enabled by Directional UWB Sector Antennas. </b> <br> M. Rath, J. Kulmer, M.S. Bakr, <u>B. Großwindhager</u>, and K. Witrisal. In <i>Proceedings of the 18th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC '17). </i> Sapporo, Japan. July 2017. <font color="red">Best Student Paper Runner-Up. </font></span>
 <span onclick="toggleTextrath2017directional()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://ieeexplore.ieee.org/document/8227739">[Link]</a> <div class="textrath2017directional" style="display:none"><div class="highlight"><pre>@inproceedings{rath2017directional,
   author={M. Rath and J. Kulmer and M. S. Bakr and B. Gro{\ss}windhager and K. Witrisal}, 
   booktitle={2017 IEEE 18th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)}, 
@@ -219,4 +219,9 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 </pre></div></div> <script> function toggleTextguger2012poorssvep() { $('.textguger2012poorssvep').toggle(); } </script> </li>
 
 </ol>
+
+<h3 id="patents">Patents</h3>
+
+
+
 
