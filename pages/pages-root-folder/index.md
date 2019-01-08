@@ -22,15 +22,23 @@ permalink: /index.html
 homepage: true
 ---
 
-Hi, I am a 3rd year PhD student at the <a href="http://www.iti.tugraz.at">Institute for Technical Informatics</a> of Graz University of Technology (TU Graz), Austria under the supervision of Prof. Kay Römer and received the B.Sc. and Dipl.-Ing. degrees in 
-Electrical Engineering from the same University in 2012 and 2014, respectively. Currently I am a guest researcher in Prof. Prabal Dutta's research group (<a href="https://lab11.eecs.umich.edu/index.html">Lab11</a>) at UC Berkeley, United States.
+Hi, I am a third-year PhD student in the Networked Embedded Systems Group of the <a href="http://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer </a>. 
+Furthermore, I am a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
+I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
+Currently I am a visiting researcher in the <a href="https://lab11.eecs.umich.edu/index.html">Lab11</a> Embedded Systems Research Group at the UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>.
 
-My current research aims to provide reliable and efficient wireless communication and localization for future Internet-of-Things applications. Towards this goal I am exploiting the high bandwidth of wireless technologies such as ultra-wideband (UWB).
-It enabled my work on environment-dependent adaptation of parameters to provide highly robust UWB links even under harsh conditions <a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
-localization system <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a>.
+My research aims to provide wireless, constrained, and embedded devices with highly-precise and reliable information about their location and surrounding environment at minimal system's complexity, size, and costs.
+<!--reliable and efficient wireless communication and localization for future Internet-of-Things applications. -->
+Towards this goal I am exploiting the high bandwidth and time resolution of wireless technologies such as ultra-wideband (UWB). 
+It enabled my recent work on environment-dependent adaptation physical layer parameters to provide highly robust UWB links even under harsh conditions
+<a href="https://ieeexplore.ieee.org/document/8449776">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
+localization system <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a> to minimize costs and setup time of RF-based localization systems. 
+Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="https://ieeexplore.ieee.org/document/8416412">[ICDCS '18]</a>. 
 
-Besides my academic career I have more than six years of experience in biomedical engineering (<a href="http://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive industry (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
-and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>).
+Besides my academic research I gained more than six years of industrial experience in biomedical engineering (<a href="http://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering
+(<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
+and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>) as well as international experience in the United States, Japan,
+and The Netherlands as a researcher, engineer, and student.
 
 <!--The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
 In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
@@ -47,9 +55,27 @@ Phone: +43 (0) 316 873-6910<br />
 E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
+<h3 id="news">News</h3>
+11/05/18: Presenting paper at Sensys '18 <br />
+11/04/18: Presenting paper at DATA '18 <br />
+10/22/18: Start of my research stay at UC Berkeley <br />
+07/03/18: Presenting paper at ICDCS '18 <br />
+06/14/18: Presenting paper at WoWMoM '18 <br />
+06/05/18: Demo and Poster at <a href="https://www.tugraz.at/projekte/dependable-things/events/2nd-symposium-on-dependable-internet-of-things-in-adverse-environments/">2nd Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
+06/06/18: Receive <a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholarship</a> for my research stay at UC Berkeley <br />
+04/11/18: Poster at IPSN '18 <br />
+04/10/18: Talk at IPSN '18 Ph.D. Forum <br />
+12/28/17: Published article in International Journal of Computing <br />
+11/07/17: Receive Best Demo Award at SenSys '17 <br />
+09/11/17: Talk at <a href="https://www.tugraz.at/projekte/dependable-things/events/1st-symposium-on-dependable-internet-of-things-in-adverse-environments/">1st Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
+07/05/17: Co-author of paper at SPAWC '17 <br />
+05/25/17: Co-author of paper at ANLN '17 <br />
+02/22/17: Receive Best Poster Award at EWSN '17 <br />
+<!--04/01/16: Begin PhD studies at TU Graz -->
+
 <h3 id="awards">Awards</h3>
 <ul>
-<li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
+<li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholar</a> 2018</li>
 <li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
 <li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
