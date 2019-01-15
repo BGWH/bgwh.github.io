@@ -7,11 +7,11 @@
   side: left
   
 - title: CV
-  url: "CV-Grosswindhager-EN.pdf"
+  url: "/CV/"
   side: left
   
   
-  #  url: "/pubs/grosswindhager2018salma.pdf/"
+  #  url: "../pubs/CV-Grosswindhager-EN.pdf"
   
   
 #- title: Getting Started
