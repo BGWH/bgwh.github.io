@@ -84,9 +84,3 @@ Category: “Special Award - Health”</li>
 <li>2nd Place <a href="https://www.pressetext.com/news/20070604010">T-Systems Young Innovation Award 2007</a></li>
 </ul>
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
