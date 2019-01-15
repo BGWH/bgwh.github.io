@@ -6,6 +6,14 @@
   url: "/publications/"
   side: left
   
+- title: CV
+  url: "/pubs/CV-Grosswindhager-EN.pdf/"
+  side: left
+  
+  
+  #  url: "/pubs/grosswindhager2018salma.pdf/"
+  
+  
 #- title: Getting Started
 #  url: "/getting-started/"
 #  side: left
