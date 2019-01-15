@@ -22,7 +22,7 @@ permalink: /index.html
 homepage: true
 ---
 
-Hi, I am a third-year PhD student in the Networked Embedded Systems Group of the <a href="http://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
+Hi, I am a third-year PhD student in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
 Furthermore, I am a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
 I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
 Currently I am a visiting researcher in the <a href="https://lab11.eecs.umich.edu/index.html">Lab11</a> Embedded Systems Research Group at the UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>.
@@ -34,7 +34,8 @@ The latter enabled my recent work on environment-dependent adaptation of physica
 localization system <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a> to minimize costs and setup time of RF-based localization systems. 
 Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="https://ieeexplore.ieee.org/document/8416412">[ICDCS '18]</a>. 
 
-Besides my academic research I gained more than six years of industrial experience in biomedical engineering (<a href="http://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering
+Besides my academic research I gained more than six years of industrial experience in biomedical engineering (g.tec medical engineering GmbH) 
+<!--(<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering-->
 (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
 and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>) as well as international experience in the United States, Japan,
 and The Netherlands as a researcher, engineer, and student.
@@ -75,8 +76,10 @@ E-Mail: grosswindhager@tugraz.at<br />
 <h3 id="awards">Awards</h3>
 <ul>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholar</a> 2018</li>
-<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
-<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
+<!--<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>-->
+<!--<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>-->
+<li>Best Demo at SenSys 2017</li>
+<li>Best Poster at EWSN 2017</li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
 <li><a href="https://www.htl-steyr.ac.at/index.php/abteilung-elektronik/projekte-e/858-brain-computer-interface-ausgezeichnet">GIT Award</a> of the Austrian Society of Electrical Engineering (OVE) for Achievements in Information and Communication Techn. 2007</li>
 <li>1st Place "Innovation & Economy in Upper Austria” (TMG-Award) 2007<br>
