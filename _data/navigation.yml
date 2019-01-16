@@ -6,9 +6,9 @@
   url: "/publications/"
   side: left
   
-- title: CV
-  url: "/CV/"
-  side: left
+#- title: CV
+#  url: "/CV/"
+#  side: left
   
   
   #  url: "../pubs/CV-Grosswindhager-EN.pdf"
