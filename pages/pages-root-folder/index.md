@@ -34,8 +34,7 @@ The latter enabled my recent work on environment-dependent adaptation of physica
 localization system <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a> to minimize costs and setup time of RF-based localization systems. 
 Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="https://ieeexplore.ieee.org/document/8416412">[ICDCS '18]</a>. 
 
-Besides my academic research I gained more than six years of industrial experience in biomedical engineering (g.tec medical engineering GmbH) 
-<!--(<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering-->
+Besides my academic research I gained more than six years of industrial experience in biomedical engineering (<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering 
 (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
 and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>) as well as international experience in the United States, Japan,
 and The Netherlands as a researcher, engineer, and student.
@@ -76,10 +75,8 @@ E-Mail: grosswindhager@tugraz.at<br />
 <h3 id="awards">Awards</h3>
 <ul>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholar</a> 2018</li>
-<!--<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>-->
-<!--<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>-->
-<li>Best Demo at SenSys 2017</li>
-<li>Best Poster at EWSN 2017</li>
+<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
+<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
 <li><a href="https://www.htl-steyr.ac.at/index.php/abteilung-elektronik/projekte-e/858-brain-computer-interface-ausgezeichnet">GIT Award</a> of the Austrian Society of Electrical Engineering (OVE) for Achievements in Information and Communication Techn. 2007</li>
 <li>1st Place "Innovation & Economy in Upper Austria” (TMG-Award) 2007<br>
