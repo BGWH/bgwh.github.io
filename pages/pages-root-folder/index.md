@@ -41,6 +41,9 @@ In my recent works I have developed an environment-dependent adaption algorithm 
 His research interests include reliable and efficient ultra-wideband wireless communication and localization.
 -->
 
+<a href="/publications/" target="_blank">[List of Publications]</a>
+<a href="/CV/" target="_blank">[CV]</a>
+
 <h3 id="address">Address / Contact</h3>
 <p>
 Bernhard Großwindhager<br />
