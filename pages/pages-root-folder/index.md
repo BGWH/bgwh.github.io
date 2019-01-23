@@ -34,7 +34,16 @@ The latter enabled my recent work on environment-dependent adaptation of physica
 localization system to minimize costs and setup time of RF-based localization systems <a href="https://dl.acm.org/citation.cfm?id=3274844">[SenSys '18]</a>. 
 Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="https://ieeexplore.ieee.org/document/8416412">[ICDCS '18]</a>. 
 
-Besides my academic research I gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering GmbH) and automotive engineering in the context of advanced driver-assistance systems (Virtual Vehicle Research Center, Magna Steyr Engineering). Furthermore, I spent a significant time of my career in the United States (UC Berkeley, Advanced Machine and Engineering co.), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
+Besides my academic research I gained more than six years of industrial experience in biomedical engineering (g.tec medical engineering GmbH) 
+<!--(<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>) and automotive engineering-->
+(<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
+and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>) as well as international experience in the United States, Japan,
+and The Netherlands as a researcher, engineer, and student.
+
+<!--The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
+In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
+His research interests include reliable and efficient ultra-wideband wireless communication and localization.
+-->
 
 <h3 id="address">Address / Contact</h3>
 <p>
@@ -47,7 +56,6 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
-01/17/19: Accepted paper at IPSN '18 <br />
 11/05/18: Presenting paper at Sensys '18 <br />
 11/04/18: Presenting paper at DATA '18 <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
