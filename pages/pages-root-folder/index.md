@@ -54,20 +54,20 @@ E-Mail: grosswindhager@tugraz.at<br />
 <h3 id="news">News</h3>
 01/17/19: Accepted paper at IPSN '18 <br />
 11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
-11/04/18: Presenting paper at <a href="../pubs/grosswindhager2018dataset.pdf">DATA '18</a> <br />
+11/04/18: Presenting paper at <a href="../pubs/grosswindhager2018dataset.pdf" target="_blank">DATA '18</a> <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
-07/03/18: Presenting paper at <a href="../pubs/grosswindhager2018concurrent.pdf">ICDCS '18</a> <br />
-06/14/18: Presenting paper at <a href="../pubs/grosswindhager2018adaptation.pdf">WoWMoM '18</a> <br />
+07/03/18: Presenting paper at <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">ICDCS '18</a> <br />
+06/14/18: Presenting paper at <a href="../pubs/grosswindhager2018adaptation.pdf" target="_blank">WoWMoM '18</a> <br />
 06/05/18: Demo and Poster at <a href="https://www.tugraz.at/projekte/dependable-things/events/2nd-symposium-on-dependable-internet-of-things-in-adverse-environments/">2nd Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
-06/06/18: Receive <a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholarship</a> for my research stay at UC Berkeley <br />
-04/11/18: Poster at IPSN '18 <br />
+06/06/18: Receive <a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholarship</a> for my research stay at UC Berkeley <br />
+04/11/18: Poster at <a href="../pubs/grosswindhager2018adaptationposter.pdf" target="_blank">IPSN '18</a> <br />
 04/10/18: Talk at IPSN '18 Ph.D. Forum <br />
-12/28/17: Published article in International Journal of Computing <br />
-11/07/17: Receive Best Demo Award at SenSys '17 <br />
+12/28/17: Published article in <a href="../pubs/grosswindhager2017networkedcars.pdf" target="_blank">International Journal of Computing</a> <br />
+11/07/17: Receive Best Demo Award at <a href="../pubs/grosswindhager2017singleanchordemo.pdf" target="_blank">SenSys '17</a> <br />
 09/11/17: Talk at <a href="https://www.tugraz.at/projekte/dependable-things/events/1st-symposium-on-dependable-internet-of-things-in-adverse-environments/">1st Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
-07/05/17: Co-author of paper at SPAWC '17 <br />
-05/25/17: Co-author of paper at ANLN '17 <br />
-02/22/17: Receive Best Poster Award at EWSN '17 <br />
+07/05/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/8227739" target="_blank">SPAWC '17</a> <br />
+05/25/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/7962828" target="_blank">ANLN '17</a> <br />
+02/22/17: Receive Best Poster Award at <a href="../pubs/grosswindhager2017switchable.pdf" target="_blank">EWSN '17</a> <br />
 04/01/16: Begin PhD programme at TU Graz <br />
 
 <h3 id="awards">Awards</h3>
