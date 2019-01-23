@@ -53,11 +53,11 @@ E-Mail: grosswindhager@tugraz.at<br />
 
 <h3 id="news">News</h3>
 01/17/19: Accepted paper at IPSN '18 <br />
-11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf">Sensys '18</a> <br />
-11/04/18: Presenting paper at DATA '18 <br />
+11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
+11/04/18: Presenting paper at <a href="../pubs/grosswindhager2018dataset.pdf">DATA '18</a> <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
-07/03/18: Presenting paper at ICDCS '18 <br />
-06/14/18: Presenting paper at WoWMoM '18 <br />
+07/03/18: Presenting paper at <a href="../pubs/grosswindhager2018concurrent.pdf">ICDCS '18</a> <br />
+06/14/18: Presenting paper at <a href="../pubs/grosswindhager2018adaptation.pdf">WoWMoM '18</a> <br />
 06/05/18: Demo and Poster at <a href="https://www.tugraz.at/projekte/dependable-things/events/2nd-symposium-on-dependable-internet-of-things-in-adverse-environments/">2nd Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
 06/06/18: Receive <a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholarship</a> for my research stay at UC Berkeley <br />
 04/11/18: Poster at IPSN '18 <br />
