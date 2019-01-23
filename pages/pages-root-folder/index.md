@@ -25,7 +25,7 @@ homepage: true
 Hi, I am a third-year PhD student in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
 Furthermore, I am a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
 I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
-Currently I am a visiting researcher in the <a href="https://lab11.eecs.umich.edu/index.html">Lab11</a> Embedded Systems Research Group at the UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>.
+Currently I am a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at the UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>.
 
 My research aims to provide wireless, constrained, and embedded devices with highly-precise and reliable information about their location and surrounding environment at minimal system complexity, size, and costs.
 <!--reliable and efficient wireless communication and localization for future Internet-of-Things applications. -->
