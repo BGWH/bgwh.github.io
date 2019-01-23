@@ -53,7 +53,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 
 <h3 id="news">News</h3>
 01/17/19: Accepted paper at IPSN '18 <br />
-11/05/18: Presenting paper at Sensys '18 <br />
+11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf">Sensys '18</a> <br />
 11/04/18: Presenting paper at DATA '18 <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
 07/03/18: Presenting paper at ICDCS '18 <br />
@@ -72,7 +72,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 
 <h3 id="awards">Awards</h3>
 <ul>
-<li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshallplan Scholar</a> 2018</li>
+<li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
 <li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
 <li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
