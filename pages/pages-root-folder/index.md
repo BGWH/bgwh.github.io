@@ -52,6 +52,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+01/17/19: Accepted paper at IPSN '18 <br />
 11/05/18: Presenting paper at Sensys '18 <br />
 11/04/18: Presenting paper at DATA '18 <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
