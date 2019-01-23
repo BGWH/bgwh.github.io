@@ -36,12 +36,7 @@ Furthermore, I have introduced a concept to acquire distance information to an a
 
 Besides my academic research I gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering GmbH) and automotive engineering in the context of advanced driver-assistance systems (Virtual Vehicle Research Center, Magna Steyr Engineering). Furthermore, I spent a significant time of my career in the United States (UC Berkeley, Advanced Machine and Engineering co.), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
 
-<!-- (<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>), (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> 
-and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>),  (<a href="https://www.ame.com/">Advanced Machine and Engineering co.</a>, <a href="https://www.berkeley.edu/">UC Berkeley</a>) (<a href="http://www.asahikawa-med.ac.jp/">Asahikawa Medical University</a>), and The Netherlands (<a href="https://www.tudelft.nl/">TU Delft</a>) 
-The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
-In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
-His research interests include reliable and efficient ultra-wideband wireless communication and localization.
--->
+<!-- (<a href="https://www.gtec.at">g.tec medical engineering GmbH </a>), (<a href="https://www.v2c2.at">Virtual Vehicle Research Center</a> and <a href="https://www.magna.com/de/unternehmen/company-information/magna-gruppen/magna-steyr">Magna Steyr Engineering AG & Co KG</a>),  (<a href="https://www.ame.com/">Advanced Machine and Engineering co.</a>, <a href="https://www.berkeley.edu/">UC Berkeley</a>) (<a href="http://www.asahikawa-med.ac.jp/">Asahikawa Medical University</a>), and The Netherlands (<a href="https://www.tudelft.nl/">TU Delft</a>) The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). His research interests include reliable and efficient ultra-wideband wireless communication and localization.-->
 
 <h3 id="address">Address / Contact</h3>
 <p>
