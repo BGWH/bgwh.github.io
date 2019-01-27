@@ -14,11 +14,6 @@
    class: icon-linkedin
    title: LinkedIn Profile
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
-
  - name: Xing
    url: https://www.xing.com/profile/Bernhard_Grosswindhager/cv
    class: icon-xing
@@ -26,9 +21,8 @@
 
 # - name: Google Scholar
 #   url: https://scholar.google.at/citations?user=yteSRaIAAAAJ&hl=de
-#   class: icon-google
+#   class: icon-googleplus
 #   title: Google Scholar Profile
-
 
 
 
