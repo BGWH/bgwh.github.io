@@ -13,16 +13,21 @@
    url: https://www.linkedin.com/in/grosswindhager/
    class: icon-linkedin
    title: LinkedIn Profile
-      
- - name: Google Scholar
-   url: https://scholar.google.at/citations?user=yteSRaIAAAAJ&hl=de
-   class: icon-google
-   title: Google Scholar Profile
+
+- name: Phlow YouTube Google+
+  url: https://plus.google.com/u/0/+Phlow
+  class: icon-googleplus
+  title: "YouTube Google+"
 
  - name: Xing
    url: https://www.xing.com/profile/Bernhard_Grosswindhager/cv
    class: icon-xing
    title: Xing Profile
+
+# - name: Google Scholar
+#   url: https://scholar.google.at/citations?user=yteSRaIAAAAJ&hl=de
+#   class: icon-google
+#   title: Google Scholar Profile
 
 
 
