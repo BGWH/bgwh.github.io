@@ -85,7 +85,7 @@ Journals, Conferences, and Workshops
 }
 </pre></div></div> <script> function toggleTextgrosswindhager2018posteradaptation() { $('.textgrosswindhager2018posteradaptation').toggle(); } </script> </li>
 <li><span id="grosswindhager2018bookdependable"><b>Dependable Wireless Communication and Localization in the Internet of Things.</b> <br> <u>B. Großwindhager</u>, M. Rath, M.S. Bakr, P. Greiner, C.A. Boano, K. Witrisal, F. Gentili, J. Grosinger, W. Bösch, and K. Römer. In <i>The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advances</i> (to appear).</span>
-<span onclick="toggleTextgrosswindhager2018bookdependable()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="../pubs/grosswindhager2018bookdependable.pdf">[PDF]</a> <div class="textgrosswindhager2018bookdependable" style="display:none"><div class="highlight"><pre>@article{grosswindhager2018bookdependable,
+<span onclick="toggleTextgrosswindhager2018bookdependable()"><a href="#" onclick="return false;">[BibTex]</a> </span> <div class="textgrosswindhager2018bookdependable" style="display:none"><div class="highlight"><pre>@article{grosswindhager2018bookdependable,
   author={Gro{\ss}windhager, Bernhard and Rath, Michael and Bakr, Mustafa S and Greiner, Philipp and Boano, Carlo Alberto and Witrisal, Klaus and Gentili, Fabrizio and Grosinger, Jasmin and B{\"o}sch, Wolfgang and R{\"o}mer, Kay},
   title={Dependable Wireless Communication and Localization in the Internet of Things},
   journal={The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advance},
