@@ -18,7 +18,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2018</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>The 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. (to appear).</span>
+<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. (to appear).</span>
 
 <li><span id="grosswindhager2018salma"><b>SALMA: UWB-based Single-Anchor Localization System Using Multipath Assistance.</b> <br> <u>B. Großwindhager</u>, M. Rath, J. Kulmer, M.S. Bakr, C.A. Boano, K. Witrisal, and K. Römer. In <i>Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys '18).</i> Shenzhen, China. November 2018.</span>
 <span onclick="toggleTextgrosswindhager2018salma()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3274844">[Link]</a> <a href="../pubs/grosswindhager2018salma.pdf">[PDF]</a> <div class="textgrosswindhager2018salma" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018salma,
