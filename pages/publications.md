@@ -28,6 +28,9 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
   year = {2019},
 }
 </pre></div></div> <script> function toggleTextbakr2019antenna() { $('.textbakr2019antenna').toggle(); } </script> </li>
+
+<h2>2018</h2>
+
 <li><span id="grosswindhager2018salma"><b>SALMA: UWB-based Single-Anchor Localization System Using Multipath Assistance.</b> <br> <u>B. Großwindhager</u>, M. Rath, J. Kulmer, M.S. Bakr, C.A. Boano, K. Witrisal, and K. Römer. In <i>Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys '18).</i> Shenzhen, China. November 2018.</span>
 <span onclick="toggleTextgrosswindhager2018salma()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3274844">[Link]</a> <a href="../pubs/grosswindhager2018salma.pdf">[PDF]</a> <div class="textgrosswindhager2018salma" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018salma,
   author = {Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Bakr, Mustafa S. and Boano, Carlo Alberto and Witrisal, Klaus and R\"{o}mer, Kay},
