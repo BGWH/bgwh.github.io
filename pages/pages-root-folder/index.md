@@ -22,7 +22,7 @@ permalink: /index.html
 homepage: true
 ---
 
-Hi, I am a third-year PhD student in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
+Hi, I am a fourth-year PhD student in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
 Furthermore, I am a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
 I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
 Recently I was a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>.
@@ -32,7 +32,7 @@ My research aims to provide wireless, constrained, and embedded devices with hig
 Towards this goal I am exploiting the high bandwidth and time resolution of wireless technologies such as ultra-wideband (UWB). 
 The latter enabled my recent work on environment-dependent adaptation of physical layer parameters to provide highly robust UWB links <a href="../pubs/grosswindhager2018adaptation.pdf" target="_blank">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
 localization system to minimize costs and setup time of RF-based localization systems <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">[Sensys '18]</a>. 
-Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">[ICDCS '18]</a>. 
+Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">[ICDCS '18]</a> and continued this work towards a highly scalable and ultra-fast localization system <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">[IPSN '19]</a>. The latter was awarded with the Best Paper Award at the International Conference on Information Processing in Sensor Networks (IPSN '19).
 
 Besides my academic research I gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering) and automotive engineering in the context of automated driving functions (Virtual Vehicle Research Center, Magna Steyr). Furthermore, I spent a significant portion of my career abroad, in the United States (UC Berkeley, Advanced Machine and Engineering), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
 
@@ -55,8 +55,8 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+04/18/19: Receive Best Paper Award at <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">IPSN '19</a> <br />
 03/15/19: Published article in <a href="../pubs/bakr2019antenna.pdf" target="_blank"> IET Microwaves, Antennas and Propagation</a> <br />
-01/17/19: Accepted paper at IPSN '19 <br />
 11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
 11/04/18: Presenting paper at <a href="https://www.tugraz.at/en/institutes/iti/salma/database/" target="_blank">DATA '18</a> <br />
 10/22/18: Start of my research stay at UC Berkeley <br />
@@ -76,6 +76,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 
 <h3 id="awards">Awards</h3>
 <ul>
+<li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a></li>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
 <li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
 <li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
