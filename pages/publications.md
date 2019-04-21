@@ -18,7 +18,39 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2019</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. (to appear).</span>
+<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span> </span>
+<span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a> <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
+ author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
+ title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags},
+ booktitle = {Proceedings of the 18th International Conference on Information Processing in Sensor Networks},
+ series = {IPSN '19},
+ year = {2019},
+ isbn = {978-1-4503-6284-9},
+ location = {Montreal, Quebec, Canada},
+ pages = {61--72},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/3302506.3310389},
+ doi = {10.1145/3302506.3310389},
+ acmid = {3310389}
+} 
+</pre></div></div> <script> function toggleTextgrosswindhager2019snaploc() { $('.textgrosswindhager2019snaploc').toggle(); } </script>
+</li>
+<li><span id="stocker2019snaplocdemo"><b>Demo: SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> M. Stocker, <u>B. Großwindhager</u>, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019.</span>
+<span onclick="toggleTextstocker2019snaplocdemo()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3312487">[Link]</a> <a href="../pubs/stocker2019snaplocdemo.pdf">[PDF]</a> <div class="textstocker2019snaplocdemo" style="display:none"><div class="highlight"><pre>@inproceedings{stocker2019snaplocdemo,
+ author = {Stocker, Michael and Gro{\ss}windhager, Bernhard and Boano, Carlo Alberto and R\"{o}mer, Kay},
+ title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags: Demo Abstract},
+ booktitle = {Proceedings of the 18th International Conference on Information Processing in Sensor Networks},
+ series = {IPSN '19},
+ year = {2019},
+ isbn = {978-1-4503-6284-9},
+ location = {Montreal, Quebec, Canada},
+ pages = {348--349},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/3302506.3312487},
+ doi = {10.1145/3302506.3312487},
+ acmid = {3312487},
+} 
+</pre></div></div> <script> function toggleTextstocker2019snaplocdemo() { $('.textstocker2019snaplocdemo').toggle(); } </script>
 </li>
 <li><span id="bakr2019antenna"><b>A Compact Broadband Frequency Selective Microstrip Antenna and its Application to Indoor Positioning Systems for Wireless Networks.</b> <br> M. S. Bakr, <u>B. Großwindhager</u>, M. Rath, J. Kulmer, I. C. Hunter, R. A. Abd-Alhameed, K. Witrisal, C. A. Boano, K. Römer, and W. Bösch. In <i>IET Microwaves, Antennas and Propagation.</i> March 2019.</span>
 <span onclick="toggleTextbakr2019antenna()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a
