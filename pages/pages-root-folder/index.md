@@ -55,6 +55,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+03/15/19: Published article in <a href="../pubs/bakr2019antenna.pdf" target="_blank"> IET Microwaves, Antennas and Propagation</a> <br />
 01/17/19: Accepted paper at IPSN '19 <br />
 11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
 11/04/18: Presenting paper at <a href="https://www.tugraz.at/en/institutes/iti/salma/database/" target="_blank">DATA '18</a> <br />
