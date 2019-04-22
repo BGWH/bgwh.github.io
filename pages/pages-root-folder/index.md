@@ -76,10 +76,10 @@ E-Mail: grosswindhager@tugraz.at<br />
 
 <h3 id="awards">Awards</h3>
 <ul>
-<li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a></li>
+<li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a> for our work <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags</a></li>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
-<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
-<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
+<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a> for our work <a href="../pubs/grosswindhager2017singleanchordemo.pdf" target="_blank">UWB-based Single-anchor Low-cost Indoor Localization System</a></li>
+<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a> for our work <a href="../pubs/grosswindhager2017switchable.pdf" target="_blank">Switchable Directional Antenna System for UWB-based Internet of Things Applications</a> </li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
 <li><a href="https://www.htl-steyr.ac.at/index.php/abteilung-elektronik/projekte-e/858-brain-computer-interface-ausgezeichnet">GIT Award</a> of the Austrian Society of Electrical Engineering (OVE) for Achievements in Information and Communication Techn. 2007</li>
 <li>1st Place "Innovation & Economy in Upper Austria” (TMG-Award) 2007<br>
