@@ -147,7 +147,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 <h2>2017</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2017networkedcars"><b>Dependable Internet of Things for Networked Cars.</b> <br> <u>B. Großwindhager</u>, A. Rupp, M. Tappler, M. Tranninger, S. Weiser, B. Aichernig, C.A. Boano, M. Horn, G. Kubin, S. Mangard, M. Steinberger, and K. Römer. In <i>International Journal of Computing.</i>16(4):226-237.</span>
+<li><span id="grosswindhager2017networkedcars"><b>Dependable Internet of Things for Networked Cars.</b> <br> <u>B. Großwindhager</u>, A. Rupp, M. Tappler, M. Tranninger, S. Weiser, B. Aichernig, C.A. Boano, M. Horn, G. Kubin, S. Mangard, M. Steinberger, and K. Römer. In <i>International Journal of Computing.</i>16(4):226-237. December 2017. </span>
 <span onclick="toggleTextgrosswindhager2017networkedcars()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="http://www.computingonline.net/computing/article/view/911">[Link]</a> <a href="../pubs/grosswindhager2017networkedcars.pdf">[PDF]</a> <div class="textgrosswindhager2017networkedcars" style="display:none"><div class="highlight"><pre>@article{grosswindhager2017networkedcars,
   author = {Bernhard Gro{\ss}windhager and Astrid Rupp and Martin Tappler and Markus Tranninger and Samuel Weiser and Bernhard Aichernig and Carlo Alberto Boano and Martin Horn and Gernot Kubin and Stefan Mangard and Martin Steinberger and Kay Römer},
   title = {Dependable Internet of Things for Networked Cars},
