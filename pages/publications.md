@@ -231,7 +231,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 <h2>2012</h2>
 
 <ol class="bibliography">
-<li><span id="guger2012ssvep"><b>How Many People Could Use an SSVEP BCI? </b> <br> C. Guger, B. Allison, <u>B. Großwindhager</u>, R. Prückl, C. Hintermüller, C. Kapeller, M. Bruckner, G. Krausz, and G. Edlinger. In <i>Frontiers in Neuroscience. </i> 6:169. </span>
+<li><span id="guger2012ssvep"><b>How Many People Could Use an SSVEP BCI? </b> <br> C. Guger, B. Allison, <u>B. Großwindhager</u>, R. Prückl, C. Hintermüller, C. Kapeller, M. Bruckner, G. Krausz, and G. Edlinger. In <i>Frontiers in Neuroscience. </i> 6:169. November 2012. </span>
 <span onclick="toggleTextguger2012ssvep()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://www.ncbi.nlm.nih.gov/pubmed/23181009">[Link]</a> <div class="textguger2012ssvep" style="display:none"><div class="highlight"><pre>@article{guger2012ssvep,
   title={How many people could use an SSVEP BCI?},
   author={Guger, Christoph and Allison, Brendan Z and Gro{\ss}windhager, Bernhard and Pr{\"u}ckl, Robert and Hinterm{\"u}ller, Christoph and Kapeller, Christoph and Bruckner, Markus and Krausz, Gunther and Edlinger, G{\"u}nter},
@@ -242,7 +242,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
   publisher={Frontiers}
 }
 </pre></div></div> <script> function toggleTextguger2012ssvep() { $('.textguger2012ssvep').toggle(); } </script> </li>
-<li><span id="normand2012beaming"><b>Beaming into the Rat World: Enabling Real-Time Interaction between Rat and Human Each at Their Own Scale. </b> <br> J.M. Normand, M.V. Sanchez-Vives, C. Waechter, E. Giannopoulos, <u>B. Großwindhager</u>, B. Spanlang, C. Guger, G. Klinker, M.A. Srinivasan, and M. Slater. In <i>PLoS ONE. </i> 7(10):1-10. </span>
+<li><span id="normand2012beaming"><b>Beaming into the Rat World: Enabling Real-Time Interaction between Rat and Human Each at Their Own Scale. </b> <br> J.M. Normand, M.V. Sanchez-Vives, C. Waechter, E. Giannopoulos, <u>B. Großwindhager</u>, B. Spanlang, C. Guger, G. Klinker, M.A. Srinivasan, and M. Slater. In <i>PLoS ONE. </i> 7(10):1-10. October 2012. </span>
 <span onclick="toggleTextnormand2012beaming()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048331">[Link]</a> <div class="textnormand2012beaming" style="display:none"><div class="highlight"><pre>@article{normand2012beaming,
   title={Beaming into the rat world: enabling real-time interaction between rat and human each at their own scale},
   author={Normand, Jean-Marie and Sanchez-Vives, Maria V and Waechter, Christian and Giannopoulos, Elias and Grosswindhager, Bernhard and Spanlang, Bernhard and Guger, Christoph and Klinker, Gudrun and Srinivasan, Mandayam A and Slater, Mel},
