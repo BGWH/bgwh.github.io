@@ -18,7 +18,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2019</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span>
+<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span>
 <span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a> <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
  author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
  title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags},
