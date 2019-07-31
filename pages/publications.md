@@ -22,7 +22,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a> <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
  author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
  title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags},
- booktitle = {Proceedings of the 18th International Conference on Information Processing in Sensor Networks},
+ booktitle = {Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks},
  series = {IPSN '19},
  year = {2019},
  isbn = {978-1-4503-6284-9},
