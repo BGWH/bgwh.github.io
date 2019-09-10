@@ -135,7 +135,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 <span onclick="toggleTextgrosswindhager2018bookdependable()"><a href="#" onclick="return false;">[BibTex]</a> </span> <div class="textgrosswindhager2018bookdependable" style="display:none"><div class="highlight"><pre>@article{grosswindhager2018bookdependable,
   author={Gro{\ss}windhager, Bernhard and Rath, Michael and Bakr, Mustafa S and Greiner, Philipp and Boano, Carlo Alberto and Witrisal, Klaus and Gentili, Fabrizio and Grosinger, Jasmin and B{\"o}sch, Wolfgang and R{\"o}mer, Kay},
   title={Dependable Wireless Communication and Localization in the Internet of Things},
-  journal={The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advance},
+  journal={The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advances},
   publisher={Springer},
   year = {2018},
   isbn = {978-3-319-92383-3},
