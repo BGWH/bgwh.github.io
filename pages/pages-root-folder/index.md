@@ -55,11 +55,12 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+09/26/19: Go live of new <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> website <br />
 04/18/19: Receive Best Paper Award at <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">IPSN '19</a> <br />
 03/15/19: Published article in <a href="../pubs/bakr2019antenna.pdf" target="_blank"> IET Microwaves, Antennas and Propagation</a> <br />
 11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
 11/04/18: Presenting paper at <a href="https://www.tugraz.at/en/institutes/iti/salma/database/" target="_blank">DATA '18</a> <br />
-10/22/18: Start of my research stay at UC Berkeley <br />
+10/18 - 01/19: Research stay in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley <br />
 07/03/18: Presenting paper at <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">ICDCS '18</a> <br />
 06/14/18: Presenting paper at <a href="../pubs/grosswindhager2018adaptation.pdf" target="_blank">WoWMoM '18</a> <br />
 06/05/18: Demo and Poster at <a href="https://www.tugraz.at/projekte/dependable-things/events/2nd-symposium-on-dependable-internet-of-things-in-adverse-environments/">2nd Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
@@ -72,7 +73,6 @@ E-Mail: grosswindhager@tugraz.at<br />
 07/05/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/8227739" target="_blank">SPAWC '17</a> <br />
 05/25/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/7962828" target="_blank">ANLN '17</a> <br />
 02/22/17: Receive Best Poster Award at <a href="../pubs/grosswindhager2017switchable.pdf" target="_blank">EWSN '17</a> <br />
-04/01/16: Begin PhD programme at TU Graz <br />
 
 <h3 id="awards">Awards</h3>
 <ul>
