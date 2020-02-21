@@ -18,11 +18,11 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2019</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span> </span>
+<li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span>
 <span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a> <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
  author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
  title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags},
- booktitle = {Proceedings of the 18th International Conference on Information Processing in Sensor Networks},
+ booktitle = {Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks},
  series = {IPSN '19},
  year = {2019},
  isbn = {978-1-4503-6284-9},
@@ -64,6 +64,23 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
   publisher ={Institution of Engineering and Technology},
 }
 </pre></div></div> <script> function toggleTextbakr2019antenna() { $('.textbakr2019antenna').toggle(); } </script> </li>
+<li><span id="grosswindhager2018bookdependable"><b>Dependable Wireless Communication and Localization in the Internet of Things.</b> <br> <u>B. Großwindhager</u>, M. Rath, M.S. Bakr, P. Greiner, C.A. Boano, K. Witrisal, F. Gentili, J. Grosinger, W. Bösch, and K. Römer. In <i>The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advances</i>.</span>
+<span onclick="toggleTextgrosswindhager2018bookdependable()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a
+href="https://link.springer.com/chapter/10.1007/978-3-319-92384-0_7">[Link]</a> <div class="textgrosswindhager2018bookdependable" style="display:none"><div class="highlight"><pre>@Inbook{grosswindhager2019bookdependable,
+  author={Gro{\ss}windhager, Bernhard and Rath, Michael and Bakr, Mustafa S. and Greiner, Philipp and Boano, Carlo Alberto and Witrisal, Klaus and Gentili, Fabrizio and Grosinger, Jasmin and B{\"o}sch, Wolfgang and R{\"o}mer, Kay},
+  editor={Ammari, Habib M.},
+  title={Dependable Wireless Communication and Localization in the Internet of Things},
+  bookTitle={Mission-Oriented Sensor Networks and Systems: Art and Science: Volume 2: Advances},
+  year={2019},
+  publisher={Springer International Publishing},
+  address={Cham},
+  pages={209--256},
+  isbn={978-3-319-92384-0},
+  doi={10.1007/978-3-319-92384-0_7},
+  url={https://doi.org/10.1007/978-3-319-92384-0_7}
+}
+</pre></div></div> <script> function toggleTextgrosswindhager2018bookdependable() { $('.textgrosswindhager2018bookdependable').toggle(); } </script> </li>
+
 
 <h2>2018</h2>
 
@@ -108,7 +125,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 } 
 </pre></div></div> <script> function toggleTextgrosswindhager2018concurrent() { $('.textgrosswindhager2018concurrent').toggle(); } </script> </li>
 <li><span id="grosswindhager2018adaptation"><b>Enabling Runtime Adaptation of Physical Layer Settings for Dependable UWB Communications.</b> <br> <u>B. Großwindhager</u>, C.A. Boano, M. Rath, and K. Römer. In <i>Proceedings of the 19th IEEE International Symposium on a World of Wireless, Mobile, and Multimedia Networks (WoWMoM '18).</i> Crete, Greece. June 2018.</span>
-<span onclick="toggleTextgrosswindhager2018adaptation()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://ieeexplore.ieee.org/document/8449776">[Link]</a> <a href="../pubs/grosswindhager2018adaptation.pdf">[PDF]</a> <div class="textgrosswindhager2018adaptation" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018adaptation,
+<span onclick="toggleTextgrosswindhager2018adaptation()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://ieeexplore.ieee.org/document/8449776">[Link]</a> <a href="../pubs/grosswindhager2018adaptation.pdf">[PDF]</a><a href="../presentations/presentation_WoWMoM_2018_Grosswindhager_16to9.pdf">[ppt]</a> <div class="textgrosswindhager2018adaptation" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018adaptation,
   author={B. Gro{\ss}windhager and C. Alberto Boano and M. Rath and K. R{\"o}mer}, 
   booktitle={2018 IEEE 19th International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM)}, 
   title={Enabling Runtime Adaptation of Physical Layer Settings for Dependable UWB Communications}, 
@@ -131,15 +148,6 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
   doi = {10.1109/IPSN.2018.00027},
 }
 </pre></div></div> <script> function toggleTextgrosswindhager2018posteradaptation() { $('.textgrosswindhager2018posteradaptation').toggle(); } </script> </li>
-<li><span id="grosswindhager2018bookdependable"><b>Dependable Wireless Communication and Localization in the Internet of Things.</b> <br> <u>B. Großwindhager</u>, M. Rath, M.S. Bakr, P. Greiner, C.A. Boano, K. Witrisal, F. Gentili, J. Grosinger, W. Bösch, and K. Römer. In <i>The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advances</i> (to appear).</span>
-<span onclick="toggleTextgrosswindhager2018bookdependable()"><a href="#" onclick="return false;">[BibTex]</a> </span> <div class="textgrosswindhager2018bookdependable" style="display:none"><div class="highlight"><pre>@article{grosswindhager2018bookdependable,
-  author={Gro{\ss}windhager, Bernhard and Rath, Michael and Bakr, Mustafa S and Greiner, Philipp and Boano, Carlo Alberto and Witrisal, Klaus and Gentili, Fabrizio and Grosinger, Jasmin and B{\"o}sch, Wolfgang and R{\"o}mer, Kay},
-  title={Dependable Wireless Communication and Localization in the Internet of Things},
-  journal={The Philosophy of Mission-Oriented Sensor Networks and Systems - Volume 2: Advance},
-  publisher={Springer}
-  note = {to appear}
-}
-</pre></div></div> <script> function toggleTextgrosswindhager2018bookdependable() { $('.textgrosswindhager2018bookdependable').toggle(); } </script> </li>
 </ol>
 
 
@@ -147,7 +155,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 <h2>2017</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2017networkedcars"><b>Dependable Internet of Things for Networked Cars.</b> <br> <u>B. Großwindhager</u>, A. Rupp, M. Tappler, M. Tranninger, S. Weiser, B. Aichernig, C.A. Boano, M. Horn, G. Kubin, S. Mangard, M. Steinberger, and K. Römer. In <i>International Journal of Computing.</i>16(4):226-237.</span>
+<li><span id="grosswindhager2017networkedcars"><b>Dependable Internet of Things for Networked Cars.</b> <br> <u>B. Großwindhager</u>, A. Rupp, M. Tappler, M. Tranninger, S. Weiser, B. Aichernig, C.A. Boano, M. Horn, G. Kubin, S. Mangard, M. Steinberger, and K. Römer. In <i>International Journal of Computing.</i>16(4):226-237. December 2017. </span>
 <span onclick="toggleTextgrosswindhager2017networkedcars()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="http://www.computingonline.net/computing/article/view/911">[Link]</a> <a href="../pubs/grosswindhager2017networkedcars.pdf">[PDF]</a> <div class="textgrosswindhager2017networkedcars" style="display:none"><div class="highlight"><pre>@article{grosswindhager2017networkedcars,
   author = {Bernhard Gro{\ss}windhager and Astrid Rupp and Martin Tappler and Markus Tranninger and Samuel Weiser and Bernhard Aichernig and Carlo Alberto Boano and Martin Horn and Gernot Kubin and Stefan Mangard and Martin Steinberger and Kay Römer},
   title = {Dependable Internet of Things for Networked Cars},
@@ -231,7 +239,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
 <h2>2012</h2>
 
 <ol class="bibliography">
-<li><span id="guger2012ssvep"><b>How Many People Could Use an SSVEP BCI? </b> <br> C. Guger, B. Allison, <u>B. Großwindhager</u>, R. Prückl, C. Hintermüller, C. Kapeller, M. Bruckner, G. Krausz, and G. Edlinger. In <i>Frontiers in Neuroscience. </i> 6:169. </span>
+<li><span id="guger2012ssvep"><b>How Many People Could Use an SSVEP BCI? </b> <br> C. Guger, B. Allison, <u>B. Großwindhager</u>, R. Prückl, C. Hintermüller, C. Kapeller, M. Bruckner, G. Krausz, and G. Edlinger. In <i>Frontiers in Neuroscience. </i> 6:169. November 2012. </span>
 <span onclick="toggleTextguger2012ssvep()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://www.ncbi.nlm.nih.gov/pubmed/23181009">[Link]</a> <div class="textguger2012ssvep" style="display:none"><div class="highlight"><pre>@article{guger2012ssvep,
   title={How many people could use an SSVEP BCI?},
   author={Guger, Christoph and Allison, Brendan Z and Gro{\ss}windhager, Bernhard and Pr{\"u}ckl, Robert and Hinterm{\"u}ller, Christoph and Kapeller, Christoph and Bruckner, Markus and Krausz, Gunther and Edlinger, G{\"u}nter},
@@ -242,7 +250,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
   publisher={Frontiers}
 }
 </pre></div></div> <script> function toggleTextguger2012ssvep() { $('.textguger2012ssvep').toggle(); } </script> </li>
-<li><span id="normand2012beaming"><b>Beaming into the Rat World: Enabling Real-Time Interaction between Rat and Human Each at Their Own Scale. </b> <br> J.M. Normand, M.V. Sanchez-Vives, C. Waechter, E. Giannopoulos, <u>B. Großwindhager</u>, B. Spanlang, C. Guger, G. Klinker, M.A. Srinivasan, and M. Slater. In <i>PLoS ONE. </i> 7(10):1-10. </span>
+<li><span id="normand2012beaming"><b>Beaming into the Rat World: Enabling Real-Time Interaction between Rat and Human Each at Their Own Scale. </b> <br> J.M. Normand, M.V. Sanchez-Vives, C. Waechter, E. Giannopoulos, <u>B. Großwindhager</u>, B. Spanlang, C. Guger, G. Klinker, M.A. Srinivasan, and M. Slater. In <i>PLoS ONE. </i> 7(10):1-10. October 2012. </span>
 <span onclick="toggleTextnormand2012beaming()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048331">[Link]</a> <div class="textnormand2012beaming" style="display:none"><div class="highlight"><pre>@article{normand2012beaming,
   title={Beaming into the rat world: enabling real-time interaction between rat and human each at their own scale},
   author={Normand, Jean-Marie and Sanchez-Vives, Maria V and Waechter, Christian and Giannopoulos, Elias and Grosswindhager, Bernhard and Spanlang, Bernhard and Guger, Christoph and Klinker, Gudrun and Srinivasan, Mandayam A and Slater, Mel},

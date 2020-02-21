@@ -34,7 +34,7 @@ The latter enabled my recent work on environment-dependent adaptation of physica
 localization system to minimize costs and setup time of RF-based localization systems <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">[Sensys '18]</a>. 
 Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">[ICDCS '18]</a> and continued this work towards a highly scalable and ultra-fast localization system <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">[IPSN '19]</a>. The latter was awarded with the <b>Best Paper Award</b> at the International Conference on Information Processing in Sensor Networks (IPSN '19).
 
-Besides my academic research I gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering) and automotive engineering in the context of automated driving functions (Virtual Vehicle Research Center, Magna Steyr). Furthermore, I spent a significant portion of my career abroad, in the United States (UC Berkeley, Advanced Machine and Engineering), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
+Besides my academic research I have co-founded the medical device company <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> and gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering) and automotive engineering in the context of automated driving functions (Virtual Vehicle Research Center, Magna Steyr). Furthermore, I spent a significant portion of my career abroad, in the United States (UC Berkeley, Advanced Machine and Engineering), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
 
 <!--The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
 In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
@@ -55,11 +55,12 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+09/26/19: Go live of new <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> website <br />
 04/18/19: Receive Best Paper Award at <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">IPSN '19</a> <br />
 03/15/19: Published article in <a href="../pubs/bakr2019antenna.pdf" target="_blank"> IET Microwaves, Antennas and Propagation</a> <br />
 11/05/18: Presenting paper at <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">Sensys '18</a> <br />
 11/04/18: Presenting paper at <a href="https://www.tugraz.at/en/institutes/iti/salma/database/" target="_blank">DATA '18</a> <br />
-10/22/18: Start of my research stay at UC Berkeley <br />
+10/18 - 01/19: Research stay in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley <br />
 07/03/18: Presenting paper at <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">ICDCS '18</a> <br />
 06/14/18: Presenting paper at <a href="../pubs/grosswindhager2018adaptation.pdf" target="_blank">WoWMoM '18</a> <br />
 06/05/18: Demo and Poster at <a href="https://www.tugraz.at/projekte/dependable-things/events/2nd-symposium-on-dependable-internet-of-things-in-adverse-environments/">2nd Symposium on Dependable Internet of Things in Adverse Environments</a> <br />
@@ -72,14 +73,13 @@ E-Mail: grosswindhager@tugraz.at<br />
 07/05/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/8227739" target="_blank">SPAWC '17</a> <br />
 05/25/17: Co-author of paper at <a href="https://ieeexplore.ieee.org/document/7962828" target="_blank">ANLN '17</a> <br />
 02/22/17: Receive Best Poster Award at <a href="../pubs/grosswindhager2017switchable.pdf" target="_blank">EWSN '17</a> <br />
-04/01/16: Begin PhD programme at TU Graz <br />
 
 <h3 id="awards">Awards</h3>
 <ul>
-<li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a></li>
+<li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a> for our work <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags</a></li>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
-<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a></li>
-<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a></li>
+<li>Best Demo at <a href="http://sensys.acm.org/2017/">SenSys 2017</a> for our work <a href="../pubs/grosswindhager2017singleanchordemo.pdf" target="_blank">UWB-based Single-anchor Low-cost Indoor Localization System</a></li>
+<li>Best Poster at <a href="http://www.ewsn2017.org/">EWSN 2017</a> for our work <a href="../pubs/grosswindhager2017switchable.pdf" target="_blank">Switchable Directional Antenna System for UWB-based Internet of Things Applications</a> </li>
 <li>Magna Steyr Innovation Award 2016 - Top 5</li>
 <li><a href="https://www.htl-steyr.ac.at/index.php/abteilung-elektronik/projekte-e/858-brain-computer-interface-ausgezeichnet">GIT Award</a> of the Austrian Society of Electrical Engineering (OVE) for Achievements in Information and Communication Techn. 2007</li>
 <li>1st Place "Innovation & Economy in Upper Austria” (TMG-Award) 2007<br>
