@@ -55,7 +55,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <li><span id="bakr2019antenna"><b>A Compact Broadband Frequency Selective Microstrip Antenna and its Application to Indoor Positioning Systems for Wireless Networks.</b> <br> M. S. Bakr, <u>B. Großwindhager</u>, M. Rath, J. Kulmer, I. C. Hunter, R. A. Abd-Alhameed, K. Witrisal, C. A. Boano, K. Römer, and W. Bösch. In <i>IET Microwaves, Antennas and Propagation.</i> March 2019.</span>
 <span onclick="toggleTextbakr2019antenna()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a
 href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf">[PDF]</a> <div class="textbakr2019antenna" style="display:none"><div class="highlight"><pre>@article{bakr2019antenna,
-  author = {Bakr, Mustafa S. and Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Hunter, Ian C. and Abd-Alhameed, Raed A. and Witrisal, Klaus and Boano, Carlo A. and R{\"o}mer, Kay and B{\"o}sch}, Wolfgang},
+  author = {Bakr, Mustafa S. and Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Hunter, Ian C. and Abd-Alhameed, Raed A. and Witrisal, Klaus and Boano, Carlo A. and R{\"o}mer, Kay and B{\"o}sch, Wolfgang},
   title = {A Compact Broadband Frequency Selective Microstrip Antenna and Its Application to Indoor Positioning Systems for Wireless Networks},
   ISSN = {1751-8725},
   journal = {IET Microwaves, Antennas & Propagation},
