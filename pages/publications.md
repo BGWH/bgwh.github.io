@@ -58,7 +58,7 @@ href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf"
   author = {Bakr, Mustafa S. and Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Hunter, Ian C. and Abd-Alhameed, Raed A. and Witrisal, Klaus and Boano, Carlo A. and R{\"o}mer, Kay and B{\"o}sch, Wolfgang},
   title = {A Compact Broadband Frequency Selective Microstrip Antenna and Its Application to Indoor Positioning Systems for Wireless Networks},
   ISSN = {1751-8725},
-  journal = {IET Microwaves, Antennas & Propagation},
+  journal = {IET Microwaves, Antennas and Propagation},
   year = {2019},
   month = {March},
   publisher ={Institution of Engineering and Technology},
