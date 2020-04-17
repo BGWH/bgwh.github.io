@@ -18,6 +18,15 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2019</h2>
 
 <ol class="bibliography">
+<li><span id="grosswindhager2019mmwave"><b>The Potential of Low-cost Millimeter-Wave Sensors for Mobile Radar Applications.</b> <br> <u>B. Großwindhager</u>. In <i>Marshall Plan Scholarship Papers. July 2019. 
+<span onclick="toggleTextgrosswindhager2019mmwave()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://static1.squarespace.com/static/559921a3e4b02c1d7480f8f4/t/5d4a91c2e6cf6c000129fbb8/1565168078616/Grosswindhager+Bernhard_+868.pdf">[Link]</a> <a href="../pubs/grosswindhager2019mmwave.pdf">[PDF]</a> <div class="textgrosswindhager2019mmwave" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019mmwave,
+	author = {Gro{\ss}windhager, Bernhard},
+	title = {{The Potential of Low-cost Millimeter-Wave Sensors for Mobile Radar Applications}},
+	booktitle = {Marshall Plan Scholarship Papers},
+	year = {2019},
+}
+</pre></div></div> <script> function toggleTextgrosswindhager2019mmwave() { $('.textgrosswindhager2019mmwave').toggle(); } </script>
+</li>
 <li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span>
 <span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a> <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
  author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
@@ -55,10 +64,10 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <li><span id="bakr2019antenna"><b>A Compact Broadband Frequency Selective Microstrip Antenna and its Application to Indoor Positioning Systems for Wireless Networks.</b> <br> M. S. Bakr, <u>B. Großwindhager</u>, M. Rath, J. Kulmer, I. C. Hunter, R. A. Abd-Alhameed, K. Witrisal, C. A. Boano, K. Römer, and W. Bösch. In <i>IET Microwaves, Antennas and Propagation.</i> March 2019.</span>
 <span onclick="toggleTextbakr2019antenna()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a
 href="http://ietdl.org/t/ga0kX">[Link]</a> <a href="../pubs/bakr2019antenna.pdf">[PDF]</a> <div class="textbakr2019antenna" style="display:none"><div class="highlight"><pre>@article{bakr2019antenna,
-  author = {Bakr, Mustafa S. and Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Hunter, Ian C. and Abd-Alhameed, Raed A. and Witrisal, Klaus and Boano, Carlo A. and R{\"o}mer, Kay and B{\"o}sch}, Wolfgang},
+  author = {Bakr, Mustafa S. and Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Hunter, Ian C. and Abd-Alhameed, Raed A. and Witrisal, Klaus and Boano, Carlo A. and R{\"o}mer, Kay and B{\"o}sch, Wolfgang},
   title = {A Compact Broadband Frequency Selective Microstrip Antenna and Its Application to Indoor Positioning Systems for Wireless Networks},
   ISSN = {1751-8725},
-  journal = {IET Microwaves, Antennas & Propagation},
+  journal = {IET Microwaves, Antennas and Propagation},
   year = {2019},
   month = {March},
   publisher ={Institution of Engineering and Technology},
@@ -125,7 +134,7 @@ href="https://link.springer.com/chapter/10.1007/978-3-319-92384-0_7">[Link]</a> 
 } 
 </pre></div></div> <script> function toggleTextgrosswindhager2018concurrent() { $('.textgrosswindhager2018concurrent').toggle(); } </script> </li>
 <li><span id="grosswindhager2018adaptation"><b>Enabling Runtime Adaptation of Physical Layer Settings for Dependable UWB Communications.</b> <br> <u>B. Großwindhager</u>, C.A. Boano, M. Rath, and K. Römer. In <i>Proceedings of the 19th IEEE International Symposium on a World of Wireless, Mobile, and Multimedia Networks (WoWMoM '18).</i> Crete, Greece. June 2018.</span>
-<span onclick="toggleTextgrosswindhager2018adaptation()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://ieeexplore.ieee.org/document/8449776">[Link]</a> <a href="../pubs/grosswindhager2018adaptation.pdf">[PDF]</a><a href="../presentations/presentation_WoWMoM_2018_Grosswindhager_16to9.pdf">[ppt]</a> <div class="textgrosswindhager2018adaptation" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018adaptation,
+<span onclick="toggleTextgrosswindhager2018adaptation()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://ieeexplore.ieee.org/document/8449776">[Link]</a> <a href="../pubs/grosswindhager2018adaptation.pdf">[PDF]</a><a href="../presentations/presentation_WoWMoM_2018_Grosswindhager_16to9.pdf">[PPT]</a> <div class="textgrosswindhager2018adaptation" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018adaptation,
   author={B. Gro{\ss}windhager and C. Alberto Boano and M. Rath and K. R{\"o}mer}, 
   booktitle={2018 IEEE 19th International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM)}, 
   title={Enabling Runtime Adaptation of Physical Layer Settings for Dependable UWB Communications}, 
