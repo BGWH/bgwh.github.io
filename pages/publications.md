@@ -18,7 +18,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 <h2>2019</h2>
 
 <ol class="bibliography">
-<li><span id="grosswindhager2019mmwave"><b>The Potential of Low-cost Millimeter-Wave Sensors for Mobile Radar Applications.</b> <br> <u>B. Großwindhager</u>. In <i>Marshall Plan Scholarship Papers. July 2019. 
+<li><span id="grosswindhager2019mmwave"><b>The Potential of Low-cost Millimeter-Wave Sensors for Mobile Radar Applications.</b> <br> <u>B. Großwindhager</u>. In <i>Marshall Plan Scholarship Papers. July 2019. </span>
 <span onclick="toggleTextgrosswindhager2019mmwave()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://static1.squarespace.com/static/559921a3e4b02c1d7480f8f4/t/5d4a91c2e6cf6c000129fbb8/1565168078616/Grosswindhager+Bernhard_+868.pdf">[Link]</a> <a href="../pubs/grosswindhager2019mmwave.pdf">[PDF]</a> <div class="textgrosswindhager2019mmwave" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019mmwave,
 	author = {Gro{\ss}windhager, Bernhard},
 	title = {{The Potential of Low-cost Millimeter-Wave Sensors for Mobile Radar Applications}},
