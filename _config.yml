@@ -144,7 +144,8 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_author:             'https://plus.google.com/u/0/104758125715653150115'
-google_site_verification:  'gSAgO-LhaZR32lDlkt1M4WzyLPHHCr6W5_JS5AMDMMM'
+google-site-verification:  'RvgF5-YEIbJR6ZsfQsP6LMYRi2A_J04t4aIZl-3y1rU'
+#google_site_verification:  'gSAgO-LhaZR32lDlkt1M4WzyLPHHCr6W5_JS5AMDMMM'
 #google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 #bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
@@ -231,7 +232,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-132907464-1
+google_analytics_tracking_id: UA-165623542-1
 
 
 
