@@ -29,8 +29,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
 </li>
 <li><span id="grosswindhager2019snaploc"><b>SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags.</b> <br> <u>B. Großwindhager</u>, M. Stocker, M. Rath, C.A. Boano, and K. Römer. In <i>Proceedings of the 18th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN ’19).</i> Montreal, Canada. April 2019. <font color="red">Best Paper Award. </font></span>
 <span onclick="toggleTextgrosswindhager2019snaploc()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3310389">[Link]</a> <a href="../pubs/grosswindhager2019snaploc.pdf">[PDF]</a>
-<a href="/video/">[video]</a>
-<a href="../videos/SALMA_Video.mp4">[directVideo]</a>
+<a href="/snaploc_video/">[Video]</a>
 <div class="textgrosswindhager2019snaploc" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2019snaploc,
  author = {Gro{\ss}windhager, Bernhard and Stocker, Michael and Rath, Michael and Boano, Carlo Alberto and R\"{o}mer, Kay},
  title = {SnapLoc: An Ultra-fast UWB-based Indoor Localization System for an Unlimited Number of Tags},
@@ -97,7 +96,9 @@ href="https://link.springer.com/chapter/10.1007/978-3-319-92384-0_7">[Link]</a> 
 <h2>2018</h2>
 
 <li><span id="grosswindhager2018salma"><b>SALMA: UWB-based Single-Anchor Localization System Using Multipath Assistance.</b> <br> <u>B. Großwindhager</u>, M. Rath, J. Kulmer, M.S. Bakr, C.A. Boano, K. Witrisal, and K. Römer. In <i>Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems (SenSys '18).</i> Shenzhen, China. November 2018.</span>
-<span onclick="toggleTextgrosswindhager2018salma()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3274844">[Link]</a> <a href="../pubs/grosswindhager2018salma.pdf">[PDF]</a> <div class="textgrosswindhager2018salma" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018salma,
+<span onclick="toggleTextgrosswindhager2018salma()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="https://dl.acm.org/citation.cfm?id=3274844">[Link]</a> <a href="../pubs/grosswindhager2018salma.pdf">[PDF]</a> 
+<a href="/salma_video/">[Video]</a>
+<div class="textgrosswindhager2018salma" style="display:none"><div class="highlight"><pre>@inproceedings{grosswindhager2018salma,
   author = {Gro{\ss}windhager, Bernhard and Rath, Michael and Kulmer, Josef and Bakr, Mustafa S. and Boano, Carlo Alberto and Witrisal, Klaus and R\"{o}mer, Kay},
   title = {SALMA: UWB-based Single-Anchor Localization System Using Multipath Assistance},
   booktitle = {Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems},
