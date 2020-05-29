@@ -1,11 +1,15 @@
 ---
 layout: video
-Test Test
+#
+# Content
+#
 subheadline: ""
-title: "SALMA Video"
+title: ""
 teaser: ""
-permalink: "/video/"
-#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+categories:
+  - 
+tags:
+  - video
 iframe: "<iframe width='970' height='546' src='../videos/SALMA_Video.mp4' frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: ""
@@ -13,4 +17,3 @@ video:
     thumbnailUrl: ""
 ---
 
-Test2
