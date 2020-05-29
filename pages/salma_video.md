@@ -3,17 +3,11 @@ layout: video
 #
 # Content
 #
-<<<<<<< HEAD:pages/salma_video.md
 subheadline: ""
 title: "SALMA Video"
 teaser: ""
-=======
-subheadline: "subheadline"
-title: "title"
-teaser: "teaser"
 header: no
-permalink: "/video/"
->>>>>>> 8f9747d331cf91294ab7b6236ccbb0cb3b73c19f:pages/video.md
+permalink: "/salma_video/"
 categories:
   - 
 tags:
