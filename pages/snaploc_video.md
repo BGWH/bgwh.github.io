@@ -6,6 +6,8 @@ layout: video
 subheadline: ""
 title: "SnapLoc Video"
 teaser: ""
+header: no
+permalink: "snaploc_video"
 categories:
   - 
 tags:
