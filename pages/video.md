@@ -14,7 +14,7 @@ tags:
 #iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 iframe: "<iframe width='970' height='546' src='../videos/SALMA_Video.mp4' frameborder='0' allowfullscreen></iframe>"
 video:
-    embedURL: "../videos/SALMA_Video.mp4"
-    contentURL: "../videos/SALMA_Video.mp4"
-    thumbnailUrl: "../videos/SALMA_Video.mp4"
+    embedURL: ""
+    contentURL: ""
+    thumbnailUrl: ""
 ---
