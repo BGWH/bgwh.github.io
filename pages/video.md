@@ -6,6 +6,7 @@ layout: video
 subheadline: "subheadline"
 title: "title"
 teaser: "teaser"
+header: no
 permalink: "/video/"
 categories:
   - 
