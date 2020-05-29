@@ -6,6 +6,7 @@ layout: video
 subheadline: ""
 title: ""
 teaser: ""
+permalink: "/video/"
 categories:
   - 
 tags:
