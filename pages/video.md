@@ -3,9 +3,9 @@ layout: video
 #
 # Content
 #
-subheadline: ""
-title: ""
-teaser: ""
+subheadline: "subheadline"
+title: "title"
+teaser: "teaser"
 permalink: "/video/"
 categories:
   - 
