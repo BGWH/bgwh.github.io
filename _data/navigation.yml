@@ -10,6 +10,10 @@
   url: "/CV/"
   side: left
   
+- title: Video
+  url: "/video/"
+  side: left
+  
   
   #  url: "../pubs/CV-Grosswindhager-EN.pdf"
   
