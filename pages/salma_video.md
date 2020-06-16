@@ -16,7 +16,7 @@ iframe: "<iframe width='1280' height='720' src='../videos/SALMA_Video.mp4' frame
 video:
     embedURL: ""
     contentURL: ""
-    thumbnailUrl: ""
+    thumbnailUrl: "../videos/salma_video_thumbnail.png"
     name: "SALMA Video"
 ---
 
