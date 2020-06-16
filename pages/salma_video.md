@@ -17,5 +17,6 @@ video:
     embedURL: ""
     contentURL: ""
     thumbnailUrl: ""
+    name: "SALMA Video"
 ---
 
