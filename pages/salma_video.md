@@ -18,5 +18,7 @@ video:
     contentURL: ""
     thumbnailUrl: "../videos/salma_video_thumbnail.png"
     name: "SALMA Video"
+    description: "SALMA Video"
+    uploadDate: "2020-06-06T08:00:00+01:00"
 ---
 
