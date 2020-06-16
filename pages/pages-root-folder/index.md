@@ -55,6 +55,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
+06/06/20: New demonstration videos of <a href="/salma_video/">SALMA</a> and <a href="/snaploc_video/">SnapLoc</a> available.
 09/26/19: Go live of new <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> website <br />
 04/18/19: Receive Best Paper Award at <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">IPSN '19</a> <br />
 03/15/19: Published article in <a href="../pubs/bakr2019antenna.pdf" target="_blank"> IET Microwaves, Antennas and Propagation</a> <br />
