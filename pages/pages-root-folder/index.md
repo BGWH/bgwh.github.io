@@ -55,7 +55,7 @@ E-Mail: grosswindhager@tugraz.at<br />
 </p>
 
 <h3 id="news">News</h3>
-06/25/20: Successfully defended my <a href="../pubs/PhD_thesis_Grosswindhager.pdf" target="_blank">PhD thesis</a> "Robust, Efficient, and Scalable UWB-based Positioning using Multipath and Quasi-simultaneous Transmissions" <br />
+06/25/20: Successfully defended my PhD thesis <a href="../pubs/PhD_thesis_Grosswindhager.pdf" target="_blank"> Robust, Efficient, and Scalable UWB-based Positioning using Multipath and Quasi-simultaneous Transmissions </a>  <br />
 06/06/20: New demonstration videos of <a href="/salma_video/">SALMA</a> and <a href="/snaploc_video/">SnapLoc</a> available <br />
 09/26/19: Go live of new <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> website <br />
 04/18/19: Receive Best Paper Award at <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">IPSN '19</a> <br />
