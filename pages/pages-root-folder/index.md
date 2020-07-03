@@ -51,7 +51,7 @@ Bernhard Großwindhager<br />
 Inffeldgasse 16, Room: IEEG066<br />
 A-8010 Graz, Austria<br />
 Phone: +43 (0) 316 873-6910<br />
-E-Mail: grosswindhager@tugraz.at<br />
+E-Mail: b.grosswindhager@gmail.com<br />
 </p>
 
 <h3 id="news">News</h3>
