@@ -23,9 +23,7 @@ homepage: true
 ---
 
 Very welcome on my personal website.
-In 2020 I have finished my PhD studies in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. 
-<!--Recently I was a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>-->
-I was a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
+In 2020 I have finished my PhD studies in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. <!--Recently I was a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>--> I was a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>.
 I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
 
 My research aims to provide wireless, constrained, and embedded devices with highly-precise and reliable information about their location and surrounding environment at minimal system complexity, size, and costs.
