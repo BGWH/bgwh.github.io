@@ -54,7 +54,7 @@ E-Mail: b.grosswindhager@gmail.com<br />
 </p>
 
 <h3 id="news">News</h3>
-07/02/20: Winner of the accelerator program <a href="https://www.gruendungsgarage.at/final-pitches-vol-xiv/"> Gründungsgarage Vol. XIV</a> with our business idea <i>pinect</i>, which is a highly accurate indoor positioning system
+07/02/20: Winner of the accelerator program <a href="https://www.gruendungsgarage.at/final-pitches-vol-xiv/"> Gründungsgarage Vol. XIV</a> with our business idea <i>pinect</i>, which is a highly accurate indoor positioning system <br />
 06/25/20: Successfully defended my <a href="../pubs/PhD_thesis_Grosswindhager.pdf" target="_blank"> PhD thesis </a> at Graz University of Technology  <br />
 06/06/20: New demonstration videos of <a href="/salma_video/">SALMA</a> and <a href="/snaploc_video/">SnapLoc</a> available <br />
 09/26/19: Go live of new <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> website <br />
