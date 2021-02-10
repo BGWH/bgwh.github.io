@@ -40,7 +40,7 @@ Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAA
  publisher={Google Patents},
  note={US Patent App. 16/624,359}
 } 
-</pre></div></div> <script> function toggleTextwitrisal2020positionpatent() { $('.witrisal2020positionpatent').toggle(); } </script>
+</pre></div></div> <script> function toggleTextwitrisal2020positionpatent() { $('.textwitrisal2020positionpatent').toggle(); } </script>
 </li>
 
 
