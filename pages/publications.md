@@ -15,6 +15,35 @@ permalink: "/publications/"
 </ul>--->
 
 Please also check my <a href="https://scholar.google.at/citations?user=yteSRaIAAAAJ&hl=de&oi=ao">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Bernhard_Grosswindhager">ResearchGate</a> profile.
+<h2>2020</h2>
+<ol class="bibliography">
+<li><span id="stocker2020secure"><b>Towards Secure and Scalable UWB-based Positioning Systems.</b> <br> M. Stocker, <u>B. Großwindhager</u>, C.A. Boano, and K. Römer. In <i>Proceedings of the 17th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS'20).</i> Delhi, India. December 2020. </span>
+<span onclick="toggleTextstocker2020secure()"><a href="#" onclick="return false;">[BibTex]</a> </span> <a href="../pubs/stocker2020secure.pdf">[PDF]</a>
+<div class="textstocker2020secure" style="display:none"><div class="highlight"><pre>@inproceedings{stocker2020secure,
+ author = {Stocker, Michael and Gro{\ss}windhager, Bernhard and Boano, Carlo Alberto and R\"{o}mer, Kay},
+ title = {Towards Secure and Scalable UWB-based Positioning Systems},
+ booktitle = {17th IEEE International Conference on Mobile Ad-Hoc and Smart Systems},
+ series = {MASS'20},
+ year = {2020},
+ location = {Delhi, India},
+} 
+</pre></div></div> <script> function toggleTextstocker2020secure() { $('.textstocker2020secure').toggle(); } </script>
+</li>
+<li><span id="witrisal2020positionpatent"><b>Method and system for determining a position.</b> <br> K. Witrisal, J. Kulmer, M. Rath, F. Gentili, C.A. Boano, K. Römer, <u>B. Großwindhager</u>, and M. Bakr. <i>US Patent.</i> July 2020. </span>
+<span onclick="toggleTextwitrisal2020positionpatent()"><a href="#" onclick="return false;">[BibTex]</a> </span> 
+<div class="textwitrisal2020positionpatent" style="display:none"><div class="highlight"><pre>@misc{witrisal2020positionpatent,
+ author={Witrisal, Klaus and Kulmer, Josef and Rath, Michael and Gentili, Fabrizio and Boano, Carlo Alberto and R{\"o}mer, Kay Uwe and Grosswindhager, Bernhard and Bakr, Mustafa Safaa Ahmed},
+ title={Method and system for determining a position},
+ url={https://patents.google.com/patent/US20200217920A1/en},
+ year={2020},
+ month=jul,
+ publisher={Google Patents},
+ note={US Patent App. 16/624,359}
+} 
+</pre></div></div> <script> function toggleTextwitrisal2020positionpatent() { $('.witrisal2020positionpatent').toggle(); } </script>
+</li>
+
+
 <h2>2019</h2>
 
 <ol class="bibliography">
