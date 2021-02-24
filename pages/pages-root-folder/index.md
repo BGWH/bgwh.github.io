@@ -75,6 +75,7 @@ If you want to get in touch, feel free to text me on <a href="https://www.linked
 
 <h3 id="awards">Awards</h3>
 <ul>
+<li>Winner of the SCOTT Award on Wirelessly Connected IoT and the Special Recognition Prize </li>
 <li>Winner of the accelerator program <a href="https://www.gruendungsgarage.at/final-pitches-vol-xiv/"> Gründungsgarage Vol. XIV</a></li>
 <li>Best Paper at <a href="http://ipsn.acm.org/2019/">IPSN 2019</a> for our work <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags</a></li>
 <li><a href="https://mymarshallplan.squarespace.com/overview-1">Marshall Plan Scholar</a> 2018</li>
