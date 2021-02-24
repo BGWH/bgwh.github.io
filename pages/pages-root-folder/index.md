@@ -25,7 +25,7 @@ homepage: true
 Very welcome on my personal website.
 In my role as a Product Marketing Manager for UWB and IoT at <a href="https://www.nxp.com/">NXP Semiconductors</a>, I contribute to a widespread adoption of the Ultra-wideband (UWB) technology in the Internet-of-Things (IoT) by defining the strategy, new use cases and business models to enhance the UWB ecosystem around the vehicle and mobile phone.  We aim to make UWB an integral technology of the IoT and a digitalized world.
 
-Before joining NXP, I have finished in 2020 my PhD studies in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. <!--Recently I was a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>--> I was a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>. During my PhD I was also a visiting researcher in the Embedded Systems Research Group at UC Berkeley.
+Before joining NXP, I have finished in 2020 my PhD studies in the Networked Embedded Systems Group of the <a href="https://www.iti.tugraz.at">Institute of Technical Informatics</a> at Graz University of Technology (TU Graz) under the supervision of <a href="https://www.tugraz.at/institute/iti/institut/team/prof-kay-roemer/"> Kay Römer</a>. <!--Recently I was a visiting researcher in the <a href="https://lab11.eecs.berkeley.edu/index.html">Lab11</a> Embedded Systems Research Group at UC Berkeley working with <a href="https://people.eecs.berkeley.edu/~prabal/"> Prabal Dutta </a>--> I was a member of the TU Graz Excellence Project <a href="https://www.tugraz.at/projekte/dependablethings/home/"> "Dependable Internet of Things" </a>. The title of my <a href="../pubs/PhD_thesis_Grosswindhager.pdf" target="_blank"> PhD thesis </a> is "Robust, Efficient, and Scalable UWB-based Positioning using Multipath and Quasi-simultaneous Transmissions". During my PhD I was also a visiting researcher in the Embedded Systems Research Group at UC Berkeley.
 I received the B.Sc. and Dipl.-Ing. degrees in Electrical Engineering from TU Graz in 2012 and 2014, respectively.
 
 My research aimed to provide wireless, constrained, and embedded devices with highly-precise and reliable information about their location and surrounding environment at minimal system complexity, size, and costs.
@@ -33,9 +33,9 @@ My research aimed to provide wireless, constrained, and embedded devices with hi
 Towards this goal I was exploiting the high bandwidth and time resolution of wireless technologies such as ultra-wideband (UWB). 
 The latter enabled my works on environment-dependent adaptation of physical layer parameters to provide highly robust UWB links <a href="../pubs/grosswindhager2018adaptation.pdf" target="_blank">[WoWMoM '18]</a> and the first low-cost UWB-based single anchor
 localization system to minimize costs and setup time of RF-based localization systems <a href="../pubs/grosswindhager2018salma.pdf" target="_blank">[Sensys '18]</a>. 
-Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">[ICDCS '18]</a> and continued this work towards a highly scalable and ultra-fast localization system <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">[IPSN '19]</a>. The latter was awarded with the <b>Best Paper Award</b> at the International Conference on Information Processing in Sensor Networks (IPSN '19).
+Furthermore, I have introduced a concept to acquire distance information to an arbitrary number of devices (quasi-)simultaneously <a href="../pubs/grosswindhager2018concurrent.pdf" target="_blank">[ICDCS '18]</a> and continued this work towards a highly scalable and ultra-fast localization system <a href="../pubs/grosswindhager2019snaploc.pdf" target="_blank">[IPSN '19]</a>. The latter was awarded with the <b>Best Paper Award</b> at the A* International Conference on Information Processing in Sensor Networks (IPSN '19).
 
-Besides my academic research I have co-founded the medical device company <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> and gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (g.tec medical engineering) and automotive engineering in the context of automated driving functions (Virtual Vehicle Research Center, Magna Steyr). Furthermore, I spent a significant portion of my career abroad, in the United States (UC Berkeley, Advanced Machine and Engineering), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
+Besides my academic research I have co-founded the medical device company <a href="https://www.cortexplore.com/"> cortEXplore GmbH</a> and gained more than six years of industrial experience in biomedical engineering working on brain-computer interfaces (<a href="https://www.gtec.at/"> g.tec medical engineering</a>) and automotive engineering in the context of automated driving functions (<a href="https://www.v2c2.at/"> Virtual Vehicle Research Center</a>, <a href="https://www.magna.com/company/company-information/magna-groups/magna-steyr"> Magna Steyr</a>). Furthermore, I spent a significant portion of my career abroad, in the United States (UC Berkeley, <a href="https://www.ame.com/"> Advanced Machine and Engineering</a>), Japan (Asahikawa Medical University), and The Netherlands (TU Delft) as a researcher, engineer, and student.
 
 <!--The aim is to exploit the benefits of using this wireless technology providing high bandwidth to enable robust location-aware Internet-of-Things applications.
 In my recent works I have developed an environment-dependent adaption algorithm to maintain highly reliable and efficient UWB links ([<a href="https://mymarshallplan.squarespace.com/overview-1">[WoWMoM ']]). 
@@ -45,17 +45,12 @@ His research interests include reliable and efficient ultra-wideband wireless co
 <a href="/publications/">[List of Publications]</a>
 <a href="/CV/">[CV]</a>
 
-<h3 id="address">Address / Contact</h3>
-<p>
-Bernhard Großwindhager<br />
-<a href="https://www.tugraz.at/home/">Graz University of Technology</a><br />
-Inffeldgasse 16, Room: IEEG066<br />
-A-8010 Graz, Austria<br />
-Phone: +43 (0) 316 873-6910<br />
-E-Mail: b.grosswindhager@gmail.com<br />
-</p>
+If you want to get in touch, feel free to text me on <a href="https://www.linkedin.com/in/grosswindhager/"> LinkedIn</a> 
+
 
 <h3 id="news">News</h3>
+11/17/20: Winner of the SCOTT Award on Wirelessly Connected IoT and the Special Recognition Prize <br />
+10/01/20: Started my new role as Product Marketing Manager UWB/IoT at<a href="https://www.nxp.com"> NXP Semiconductors</a> <br />
 07/02/20: Winner of the accelerator program <a href="https://www.gruendungsgarage.at/final-pitches-vol-xiv/"> Gründungsgarage Vol. XIV</a> with our business idea <i>pinect</i>, which is a highly accurate indoor positioning system <br />
 06/25/20: Successfully defended my <a href="../pubs/PhD_thesis_Grosswindhager.pdf" target="_blank"> PhD thesis </a> at Graz University of Technology  <br />
 06/06/20: New demonstration videos of <a href="/salma_video/">SALMA</a> and <a href="/snaploc_video/">SnapLoc</a> available <br />
