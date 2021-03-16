@@ -12,7 +12,7 @@ header: no
 #    background-color: "#fabb00"
 title: "Bernhard Großwindhager"
 image:
-    title: bernhard_foto_supersupersmall.png
+    title: bernhard_foto_supersupersmall_website.png
 
 permalink: /index.html
 #
