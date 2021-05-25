@@ -9,8 +9,8 @@ permalink: "/CV/"
 <!--<embed src="../pubs/CV-Grosswindhager-EN.pdf" width="800px" height="2100px" />
 <object data="../pubs/CV-Grosswindhager-EN.pdf" type="application/pdf" width="100%" height="100%">-->
 
-<object data="../pubs/CV-Grosswindhager-EN.pdf" type="application/pdf" width="800px" height="2100px">
+<object data="../pubs/CV-20210525-Großwindhager_EN.pdf" type="application/pdf" width="800px" height="2100px">
   <p>Your web browser doesn't have a PDF plugin.
-  Instead you can <a href="../pubs/CV-Grosswindhager-EN.pdf">click here to
+  Instead you can <a href="../pubs/CV-20210525-Großwindhager_EN.pdf">click here to
   download the PDF file.</a></p>
 </object>
